@@ -8,6 +8,9 @@
 .text {
   color: white;
 }
+.textDark {
+  color: black;
+}
 
 .textTemp {
   font-size: 70px;
@@ -17,12 +20,27 @@
   margin-left: 50px;
 }
 
+.textTempDark {
+  font-size: 70px;
+  margin: 0;
+  padding: 0;
+  color: black;
+  margin-left: 50px;
+}
+
 .textcity {
   font-size: 40px;
   margin: 0;
   padding: 0;
   color: white;
-  margin-top: 50px;
+  margin-top: 10px;
+}
+.textcityDark {
+  font-size: 40px;
+  margin: 0;
+  padding: 0;
+  color: black;
+  margin-top: 10px;
 }
 
 .icon {
